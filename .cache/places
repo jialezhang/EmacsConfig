@@ -1,6 +1,23 @@
 ;;; -*- coding: utf-8 -*-
-(("/Users/gkjiale/.spacemacs" . 2251)
- ("/Users/gkjiale/.emacs.d/.cache/recentf" . 314)
+(("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/webpack/position.alpha.js" . 758)
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/"
+  (dired-filename . "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/base"))
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/base/"
+  (dired-filename . "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/base/_color.scss"))
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/app.py" . 1229)
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/base/_color.scss" . 7054)
+ ("/Users/gkjiale/.emacs.d/contrib/chrome/README.org" . 1646)
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/webpack/position.bak.js" . 2447)
+ ("/Applications/Emacs 2.app/Contents/Resources/etc/DEBUG" . 6051)
+ ("/Users/gkjiale/workspace/创业邦.md" . 731)
+ ("/Users/gkjiale/workspace/"
+  (dired-filename . "/Users/gkjiale/workspace/1.txt"))
+ ("/Users/gkjiale/workspace/1.txt" . 103)
+ ("/Users/gkjiale/.emacs.d/.cache/recentf" . 919)
+ ("/Users/gkjiale/.emacs.d/elpa/macrostep-20150830.1446/macrostep-autoloads.el" . 1333)
+ ("/Users/gkjiale/.emacs.d/elpa/elisp-slime-nav-20150805.1248/elisp-slime-nav-autoloads.el" . 1237)
+ ("/Users/gkjiale/.emacs.d/elpa/diff-hl-20150909.1157/diff-hl-autoloads.el" . 4313)
+ ("/Users/gkjiale/.spacemacs" . 2251)
  ("/Users/gkjiale/.emacs.d/elpa/window-numbering-20150228.1247/window-numbering-autoloads.el" . 830)
  ("/Users/gkjiale/.emacs.d/elpa/volatile-highlights-20141004.2240/volatile-highlights-autoloads.el" . 254)
  ("/Users/gkjiale/.emacs.d/elpa/vi-tilde-fringe-20141027.1942/vi-tilde-fringe-autoloads.el" . 1347)
