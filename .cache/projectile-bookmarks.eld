@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/workspace/code/jianxun-v2-b/")

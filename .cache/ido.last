@@ -1,0 +1,379 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/gkjiale/workspace/code/events-jianxun/src/" . "controllers/")
+ ("/Users/gkjiale/workspace/code/events-jianxun/" . "config/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionEditor/Preview/" . "Details/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionEditor/" . "Preview/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionCreator/Preview/" . "Details/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionCreator/" . "Preview/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/apps/" . "talentmanagement/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/template/" . "refuse/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/apps/" . "account/")
+ ("/Users/gkjiale/.emacs.d/" . "mine/")
+ ("/Users/gkjiale/" . ".emacs.d/")
+ ("/Users/" . "gkjiale/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/account/" . "status/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/modules/" . "jx/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/partials/" . "v2/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/apps/" . "faq/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/vendors/jquery-fileupload/jQuery-File-Upload-9.10.5/" . "js/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/vendors/jquery-fileupload/" . "jQuery-File-Upload-9.10.5/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/company_management/" . "modal/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/vendors/" . "cropit/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/source/partials/" . "events/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/source/" . "partials/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/" . "source/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talents/sidebar/" . "hr/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/partials/" . "resume/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/resume/" . "sidebar/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talents/resume/" . "sidebar/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/components/" . "Resume/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/webpack/" . "Resume/")
+ ("/" . "tmp/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/components/" . "icon/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/,/" . "art-template/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/" . "webpack/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/components/" . "icon/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/" . "layout/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/" . "source/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talent_management/Positioninv/Details/" . "Chat/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/" . "PositionCreator/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/position_invitation/Details/" . "Chat/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/position_invitation/" . "Details/")
+ ("/Users/gkjiale/workspace/" . "code/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talent_management/Positioninv/" . "Details/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talent_management/" . "Positioninv/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talents/" . "resume/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/" . "static/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/" . "jianxun/")
+ ("/Users/gkjiale/workspace/code/" . "jianxun-v2-b/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/components/" . "icon/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/layout/dist_partials/" . "v2/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/events/" . "media/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/layout/" . "jx/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/" . "share/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/layout/" . "jx/")
+ ("/Users/gkjiale/workspace/code/events-jianxun/public/img/school-events/" . "school/")
+ ("/Users/gkjiale/workspace/code/events-jianxun/public/img/" . "school-events/")
+ ("/Users/gkjiale/workspace/code/events-jianxun/src/views/partials/events/school/" . "items/")
+ ("/Users/gkjiale/.emacs.d/mine/" . "evil/")
+ ("/Users/gkjiale/workspace/code/events-jianxun/node_modules/koa-handlebars/" . "node_modules/")
+ ("/Users/gkjiale/workspace/code/events-jianxun/node_modules/" . "handlebars/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/vendors/" . "Chart/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/vendors/" . "jquery-fileupload/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/webpack/" . "Resume/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/partials/" . "resume/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/" . "event_no1/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/webpack/" . "Resume/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/components/" . "Resume/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/resume/" . "push/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/" . "resume_non_review/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/layout/" . "dist_partials/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/" . "resume/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talent_search/" . "Talents/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/" . "position_management/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/node_modules/jquery/" . "dist/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/node_modules/" . "jquery/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/" . "webpack/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/" . "components/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/" . "source/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/" . "templates/")
+ ("/Users/gkjiale/workspace/code/jianxun-admin/" . "jianxun/")
+ ("/Users/gkjiale/workspace/code/events-jianxun/static/source/sass/layout/events/" . "school/")
+ ("/Users/gkjiale/workspace/code/events-jianxun/src/views/partials/events/" . "school/")
+ ("/Users/gkjiale/workspace/code/deploy-and-online/deploy/static/vendor/" . "pure/")
+ ("/Users/gkjiale/workspace/code/deploy-and-online/deploy/static/" . "js/")
+ ("/Users/gkjiale/workspace/code/deploy-and-online/deploy/templates/" . "online/")
+ ("/Users/gkjiale/workspace/code/deploy-and-online/deploy/" . "static/")
+ ("/Users/gkjiale/workspace/code/deploy-and-online/" . "deploy/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/" . "partials/")
+ ("/Users/gkjiale/workspace/code/jianxun-subman/app/core/" . "db/")
+ ("/Users/gkjiale/workspace/code/jianxun-subman/app/" . "core/")
+ ("/Users/gkjiale/workspace/code/jianxun-subman/" . "app/")
+ ("/Users/gkjiale/workspace/code/hub-jianxun/static/source/sass/" . "pages/")
+ ("/Users/gkjiale/workspace/code/hub-jianxun/static/source/" . "sass/")
+ ("/Users/gkjiale/Documents/智寻天下/" . "周报/")
+ ("/Users/gkjiale/Documents/" . "智寻天下/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/" . "webpack/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/" . "js/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/" . "templates/")
+ ("/Users/gkjiale/workspace/code/jianxun-v2/" . "jianxun/")
+ ("/Users/gkjiale/workspace/code/hub-jianxun/webpack/" . "strategies/")
+ ("/Users/gkjiale/workspace/code/hub-jianxun/public/" . "js/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/layout/dist_partials/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/pages/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/components/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/webpack/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionCreator/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/source/"
+ "/Users/gkjiale/workspace/code/events-jianxun/src/controllers/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/"
+ "/Users/gkjiale/workspace/code/events-jianxun/config/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/"
+ "/Users/gkjiale/workspace/code/events-jianxun/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/source/layouts/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/"
+ "/Users/gkjiale/.emacs.d/mine/evil/"
+ "/Users/gkjiale/.emacs.d/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/webpack/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/utils/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/share/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/vendors/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/utils/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/account/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/vendors/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/settings/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/share/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/partials/resume/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/webpack/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/pages/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/resume/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/resume/push/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/resume/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/components/icon/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/components/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/layout/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/components/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/resume/sidebar/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/bussiness_member_details/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/faq/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/pages/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/"
+ "/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/components/icon/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionEditor/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionEditor/Preview/Details/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionCreator/Preview/Details/"
+ "/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talent_management/Positioninv/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/resume_non_review/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/resume_non_review_h_detail/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/"
+ "/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/vendors/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "_dist1.scss"
+ "position.scss"
+ "_buttons.scss"
+ "position.alpha.js"
+ "PositionModal.html"
+ "eventsIndex.hbs"
+ "auth.js"
+ "count.js"
+ "index.js"
+ "school.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/layout/dist_partials/" (21998 62140 0 0) "v2/" "_dist6.scss" "_dist5.scss" "_dist4.scss" "_dist3.scss" "_dist2.scss" "_dist1.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/layout/" (22006 41899 0 0) "resume/" "position/" "jx/" "dist_partials/" "_waves.scss" "_tabs.scss" "_style.scss" "_responsive-nav.scss" "_nprogress.scss" "_navbar.scss" "_navbar-media.scss" "_footer-media.scss" "_dropdown.scss" "_dist.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/base/" (22006 41899 0 0) "_variables.scss" "_typography.scss" "_normalize.scss" "_jx-variables.scss" "_grid.scss" "_global.scss" "_font.scss" "_color.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/pages/" (22013 23598 0 0) "template.scss" "talent.scss" "talent-search.scss" "resume.scss" "position.scss" "hr.scss" "faq.scss" "errors.scss" "company.scss" "b-homepage.scss" "account.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/components/" (22013 23541 0 0) "jquery.range.scss" "icon/" "date_picker/" "cityPicker.scss" "_status-tag.scss" "_notify.scss" "_new-range.scss" "_nano-scroller.scss" "_modal.scss" "_loading.scss" "_jquery.tagit.scss" "_input-new.scss" "_icons-material-design.scss" "_icons-huntcoder.scss" "_form.scss" "_filter.scss" "_cards.scss" "_buttons.scss" "_avatar-upload.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/webpack/" (22013 23283 0 0) "template.alpha.js" "talents.alpha.js" "talent-search.alpha.js" "resume.alpha.js" "Resume/" "position.bak.js" "position.alpha.js" "hr.alpha.js" "homepage.alpha.js" "faq.alpha.js" "company.alpha.js" "account.alpha.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionCreator/" (22013 21356 0 0) "PreviewModal.html" "Preview/" "PositionModal.html" ".#PositionModal.html" "#PositionModal.html#" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/" (22007 41188 0 0) "vendors/" "uimodule_base.html" "talents/" "talent_search/" "talent_management/" "readme.md" "positioninv_template_management/" "position_management/" "partials/" "homepage.html" "favicon.html" "faq.html" "errors/" "company_management/" "account/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/" (21998 62139 0 0) "source/" "scripts/" "readme.md" "js/" "img/" "favicon/" "errors/" "emails/" "css/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/" (22013 21151 0 0) "tmp/" "test/" "successModal.html" "source/" "server.js" "run.sh" "nodemon.json" "data/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/events-jianxun/src/controllers/" (21991 5560 0 0) "school.js" "position.js" "index.js" "hub.js" "count.js" "company.js" "auth.js" "apply.js" "account.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/events-jianxun/src/" (21990 57955 0 0) "views/" "models/" "controllers/" "body.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/" (22013 20252 0 0) "webpack.dev-server.js" "webpack.config.js" "tests/" "setup.py" "scripts/" "resume.png" "renderEvent.js" "release/" "README.md" "parts/" "package.json" "node_modules/" "LICENCE" "jianxun.egg-info/" "jianxun/" "index.html" "gulpfile.js" "fis-conf.js" "etc/" "develop-eggs/" "buildout.cfg" "bootstrap-buildout.py" "bin/" "api_readme.md" ".installed.cfg" ".gitignore" ".git_commit.tpl" ".git/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/faq/" (22013 17940 0 0) "_title.scss" "_content.scss" "_base.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/components/" (22013 17939 0 0) "jquery.range.scss" "icon/" "form/" "date_picker/" "cityPicker.scss" "_wysiwyg.scss" "_wysiwyg-editor.css" "_status-tag.scss" "_notify.scss" "_notification.scss" "_new-range.scss" "_nano-scroller.scss" "_modal.scss" "_jquery.tagit.scss" "_input-new.scss" "_icons-material-design.scss" "_icons-huntcoder.scss" "_form.scss" "_filter.scss" "_dropdown.scss" "_cards.scss" "_buttons.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/resume/" (22013 17936 0 0) "_skill.scss" "_sidebar.scss" "_header.scss" "_head-menu.scss" "_field.scss" "_evaluate.scss" "_base.scss" "_active-time.scss" "_account.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/vendors/" (22013 8498 0 0) "zlib.js" "ZeroClipboard.min.js" "wysiwyg.js" "wysiwyg-editor.js" "webuploader.html5only.min.js" "webuploader.html5only.js" "validate.js" "standard_fonts_metrics.js" "split_text_to_size.js" "png_support.js" "png.js" "picturefill.js" "materialize.js" "juicer.js" "jsPDF.js" "jquery.widget.js" "jquery.velocity.min.js" "jquery.validate.js" "jquery.ui.js" "jquery.tag-it.js" "jquery.tabs.js" "jquery.sideNav.js" "jquery.pjax.js" "jquery.modal.js" "jquery.js" "jquery.iframe-transport.js" "jquery.form.js" "jquery.fileupload.js" "jquery.easing.js" "jquery.dropdown.js" "jquery.collapsible.js" "jquery.auto-complete.js" "jquery-widget.zip" "jquery-widget/" "jquery-ui/" "jquery-fileupload/" "html2canvas.js" "homepage.js" "hammerjs.js" "from_html.js" "dropzone.js" "datepicker/" "d3.js" "Chart.Line.js" "Chart.Bar.js" "Chart/" "addimage.js" "addhtml.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/utils/" (22013 10457 0 0) "webuploader.js" "validate.js" "utils.js" "url.js" "textarea.js" "slider.js" "ResponseHandler.js" "mediaReset.js" "log.js" "liquidFillGauge.js" "filter.js" "DataHub.js" "AjaxHub.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/vendors/" (22013 8426 0 0) "webuploader.html5only.min.js" "webuploader.html5only.js" "validate.js" "picturefill.js" "materialize.js" "juicer.js" "jquery.widget.js" "jquery.velocity.min.js" "jquery.validate.js" "jquery.ui.js" "jquery.tag-it.js" "jquery.tabs.js" "jquery.sideNav.js" "jquery.range.js" "jquery.pjax.js" "jquery.nanoscroller.js" "jquery.modal.js" "jquery.js" "jquery.form.js" "jquery.easing.js" "jquery.dropdown.js" "jquery.cropit.js" "jquery.collapsible.js" "jquery.auto-complete.js" "jquery-ui-1.11.4.custom/" "homepage.js" "hammerjs.js" "domReady.js" "datepicker/" "d3.js" "Chart/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/share/" (22013 9952 0 0) "header.html" "default.email.html" "content.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/webpack/" (22013 18570 0 0) "share.alpha.js" "resume.alpha.js" "Resume/" "member.alpha.js" "login-register.alpha.js" "homepage.alpha.js" "fillin.bak.js" "fillin.alpha.js" "faq.alpha.js" "event.alpha.js" "account.alpha.js" "../" "./")
+
+ ("/Users/gkjiale/.emacs.d/" (22013 19024 0 0) "var/" "url/" "thumbs/" "test-startup.sh" "site-lisp/" "recentf" "README.md" "org-clock-save.el" "mine/" "lisp/" "LICENSE" "init.el" "ido.last" "history" "evil/" "elpa/" "ditaa0_9.jar" "custom.el~" "custom.el" "auto-save-list/" "ac-comphist.dat" ".travis.yml" ".smex-items" ".session" ".mc-lists.el" ".gitignore" ".git/" ".emacs.desktop.lock" ".emacs.desktop" ".bookmarks.el" ".agignore" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/events-jianxun/config/" (21990 47741 0 0) "schools.js" "routes.js" "passport.js" "koa.js" "config.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/events-jianxun/" (21994 50558 0 0) "webpack.old.js" "webpack.dev-server.js" "webpack.config.js" "webpack/" "test/" "static/" "src/" "server.js" "register-babel.js" "README.md" "public/" "package.json" "npm-debug.log" "node_modules/" "lib/" "gulpfile.js" "const/" "config/" "build/" "bower.json" ".gitignore" ".git/" ".eslintrc" ".DS_Store" ".bowerrc" ".babelrc" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/source/" (22013 19085 0 0) "partials/" "layouts/" "eventsIndex.hbs" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/source/partials/events/" (22011 31790 0 0) "school.hbs" "school-test.hbs" "school/" "middle.hbs" "header.hbs" "event-intro.hbs" "companynav.hbs" "companyIndex.hbs" "company/" "bottom.hbs" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/source/partials/" (21994 65313 0 0) "hub/" "events/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/source/layouts/" (22013 19061 0 0) "main.hbs" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/event_no1/tmp/" (22011 31790 0 0) "header.html" "bottom.html" "../" "./")
+
+ ("/Users/gkjiale/.emacs.d/mine/evil/" (22013 17445 0 0) "scripts/" "Makefile" "lib/" "evil.el" "evil-vars.el" "evil-types.el" "evil-tests.el" "evil-states.el" "evil-search.el" "evil-repeat.el" "evil-pkg.el" "evil-maps.el" "evil-macros.el" "evil-integration.el" "evil-ex.el" "evil-digraphs.el" "evil-core.el" "evil-common.el" "evil-commands.el" "evil-command-window.el" "doc/" "COPYING" "CHANGES.org" ".hgtags" ".hg/" ".gitignore" ".gitattributes" "../" "./")
+
+ ("/Users/gkjiale/.emacs.d/mine/" (22013 17236 0 0) "zencoding-mode.el" "web-mode.elc" "web-mode.el" "web-mode/" "tornado-template.el" "sws-mode.el" "julia-mode.el" "jade-mode.el" "highlight-indentation.el" "evil/" "evernote-mode.el" "crosshairs.el" "ace-jump-mode.el" "../" "./")
+
+ ("/Users/gkjiale/" (22013 17845 0 0) "workspace/" "route.sh" "Public/" "Pictures/" "nodejs.scribbleton" "Music/" "Movies/" "Library/" "jialezhang.github.com/" "jiale_blog/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-gkjiale的MacBook Pro-5.0.5" ".vimrc" ".viminfo" ".vim-fuf-data/" ".vim/" ".vagrant.d/" ".vagrant/" ".v8flags.4.5.103.30.gkjiale.json" ".v8flags.3.28.71.19.gkjiale.json" ".Trash/" ".tmux.conf" ".TeXmacs/" ".subversion/" ".ssh/" ".rvm/" ".profile" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".node_repl_history" ".node-gyp/" ".mysql_history" ".mongorc.js" ".mkshrc" ".local/" ".lesshst" ".julia_history" ".julia/" ".htoprc" ".gvm/" ".gitconfig" ".ghc/" ".gemrc" ".gem/" ".fis3-tmp/" ".emacs.d.bak/" ".emacs.d/" ".DS_Store" ".dbshell" ".cups/" ".config/" ".cnpmrc" ".cnpm/" ".CFUserTextEncoding" ".cache/" ".bundle/" ".buildout/" ".bashrc" ".bash_history" ".babel.json" ".atom/" ".android/" "-psn_0_" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/" (22013 10776 0 0) "uimodule_base.html" "static/" "shareKindle.html" "share/" "resume.html" "resume/" "readme.md" "position_invitation/" "pdf.html" "partials/" "oauth/" "member/" "homepage.html" "favicon.html" "faq.html" "event_no1.html" "event_no1/" "errors/" "account/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/" (22013 10777 0 0) "urls.pyc" "urls.py" "templates/" "static/" "settings/" "core/" "common/" "apps/" "app.pyc" "app.py" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/share/" (22013 10498 0 0) "_header.scss" "_content.scss" "_base.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/utils/" (22011 49802 0 0) "webuploader.js" "web.test.js" "validate.js" "utils.js" "url.js" "upload.js" "textarea.js" "slider.js" "ResponseHandler.js" "nprogress.js" "mediaReset.js" "log.js" "liquidFillGauge.js" "filter.js" "DataHub.js" "anchor.js" "AjaxHub.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/account/" (22011 31790 0 0) "status/" "settings/" "resurgence.html" "ResumeStatus.html" "resetpwd.html" "registerModal.html" "mobile/" "login.html" "J-member.html" "invitationcodeModal.html" "invitationcode_confirm.html" "invitationcode_apply.html" "initiative_register.html" "forgotpwd.html" "customer_register_success.html" "customer_refuse.html" "customer_invitation_register.html" "customer_initiative_register.html" "confirm_success.html" "confirm_faild.html" "confirm.html" "Company.html" "bussiness_register_success.html" "bussiness_register_failure.html" "bussiness_register.html" "apply_success.html" "account_settings.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/settings/" (22013 7205 0 0) "UrlMap.js" "SearchSettings.js" "infoConfigSettings.js" "filter-settings.js" "Chart.Color.js" "AccountEdit.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/pages/" (22013 2521 0 0) "talents.scss" "resume.scss" "refuse.scss" "recommend.scss" "hr-list.scss" "homepage.scss" "bussiness-unconfirm.scss" "bussiness-details.scss" "admin-homepage.scss" "account.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/layout/" (22006 15627 0 0) "position/" "jx/" "dist_partials/" "_waves.scss" "_tabs.scss" "_style.scss" "_responsive-nav.scss" "_nprogress.scss" "_navbar.scss" "_navbar-media.scss" "_dropdown.scss" "_dist.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/webpack/" (22013 2427 0 0) "talents.alpha.js" "search.alpha.js" "resume.alpha.js" "Resume/" "recommend.alpha.js" "homepage.alpha.js" "bussiness.alpha.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/" (21988 21111 0 0) "README.md" "partials/" "pages/" "layout/" "helpers/" "email/" "components/" "base/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/" (21988 7563 0 0) "source/" "scripts/" "readme.md" "js/" "img/" "errors/" "css/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/" (22010 44436 0 0) "urls.pyc" "urls.py" "templates/" "static/" "settings/" "server/" "jx_templates/" "jx_static/" "core/" "common/" "apps/" "app.pyc" "app.py" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/templates/resume/sidebar/" (22012 58842 0 0) "TalentItem.html" "share.html" "ResumeStatus.html" "ResumePatch.html" "Recommendation.html" "PositionStatus.html" "PositionStatus.bak.html" "positionStatus/" "PatchRelease.html" "CheckRecord.html" "announcement.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/components/icon/" (22012 59206 0 0) "_pure-css-icon.scss" "_job-source.scss" "_icons.scss" "_icon_search_page.scss" "_icon_job.scss" "_icon.scss" "_icon-sns.scss" "_icon-resume-website.scss" "_icon-account.scss" "_auth-icon.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/resume/push/" (22012 59732 0 0) "item.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/" (22010 30015 0 0) "创业邦.md" "vagrant_space/" "scripts/" "mysql-5.6.26-osx10.9-x86_64.tar.gz" "mynewwiki/" "learn/" "code/" "2.txt" "1.txt" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/" (22006 15627 0 0) "webpack.dev-server.js" "webpack.config.js" "setup.py" "scripts/" "README.md" "parts/" "package.json" "node_modules/" "LICENCE" "jianxun.egg-info/" "jianxun/" "gulpfile.js" "etc/" "develop-eggs/" "buildout.cfg" "bower.json" "bootstrap-buildout.py" "bin/" ".installed.cfg" ".gitignore" ".git/" ".bowerrc" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/partials/resume/" (22012 59702 0 0) "_skill.scss" "_sidebar.scss" "_header.scss" "_head-menu.scss" "_field.scss" "_evaluate.scss" "_basic.scss" "_active-time.scss" "_account.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/resume/" (22012 59449 0 0) "skill.html" "Skill/" "sidebar/" "push_status.html" "push/" "header.html" "head_menu_tabs.html" "field.html" "evaluate.html" "basic.html" "bak/" "active_time.html" "account_info.html" "Account/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/components/" (22012 59083 0 0) "jquery.range.scss" "icon/" "date_picker/" "cityPicker.scss" "_status-tag.scss" "_notify.scss" "_notification.scss" "_new-range.scss" "_nano-scroller.scss" "_modal.scss" "_jquery.tagit.scss" "_input-new.scss" "_icons-material-design.scss" "_icons-huntcoder.scss" "_form.scss" "_filter.scss" "_cards.scss" "_buttons.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/" (22012 58917 0 0) "vendors/" "uimodule_base.html" "template_management/" "search/" "resume.html" "resume/" "page.html" "nav.html" "job_management/" "homepage.html" "favicon.html" "company_management/" "bussiness_member_unconfirm.html" "bussiness_member_unconfirm/" "bussiness_member_details/" "bussiness_member_detail.html" "bussiness_member.html" "bussiness_member/" "account/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/partials/recommend/" (22006 15627 0 0) "alsdkfjald" "_talent.scss" "_hr-content.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/source/partials/" (22006 17673 0 0) "resume/" "recommend/" "bussiness-member/" "_annoucement.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/js/" (22012 56423 0 0) "ZeroClipboard.swf" "ZeroClipboard.min.js" "webpack/" "vendors/" "utils/" "settings/" "dist/" "data/" "const/" "components/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/" (22012 56401 0 0) "zeroclipboard-2.2.0/" "source/" "readme.md" "js/" "img/" "css/" ".DS_Store" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/pages/" (22012 51886 0 0) "template.scss" "talent.scss" "talent-search.scss" "share-kindle.scss" "resume.scss" "resume-status.scss" "position.scss" "login-register.scss" "hr.scss" "fillin.scss" "faq.scss" "events.scss" "error.scss" "cc-homepage.scss" "bussiness-company.scss" "account.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/components/icon/" (22011 31790 0 0) "_pure-css-icon.scss" "_job-source.scss" "_icons.scss" "_icon_search_page.scss" "_icon_job.scss" "_icon.scss" "_icon-sns.scss" "_icon-resume-website.scss" "_icon-account.scss" "_auth-icon.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/base/" (22011 31790 0 0) "_variables.scss" "_typography.scss" "_normalize.scss" "_jx-variables.scss" "_grid.scss" "_global.scss" "_font.scss" "_color.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/events/" (22011 31790 0 0) "school/" "media/" "company/" "_school.scss" "_middle-banner.scss" "_header.scss" "_company.scss" "_company-nav.scss" "_bottom.scss" "_base.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/partials/" (22011 31790 0 0) "share/" "resume-status/" "resume/" "position/" "homepage/" "fillin/" "faq/" "events/" "account/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2/jianxun/static/source/" (22011 31790 0 0) "README.md" "partials/" "pages/" "modules/" "layout/" "helpers/" "components/" "base/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/settings/" (22011 49583 0 0) "constants.pyc" "constants.py" "config.pyc" "config.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/css/" (22011 47169 0 0) "template.css" "talents.css" "talent-search.css" "resume.css" "refuse.css" "recommend.css" "position.css" "maps/" "hr.css" "hr-list.css" "homepage.css" "errors.css" "bussiness-unconfirm.css" "bussiness-details.css" "admin-homepage.css" "account.css" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talent_management/Positioninv/Details/Chat/" (22011 52592 0 0) "ChatItem.html" "ChatInput.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talents/resume/" (22011 52737 0 0) "skill.html" "Skill/" "sidebar/" "header.html" "head_menu_tabs.html" "field.html" "evaluate.html" "basic.html" "basic.bak.html" "active_time.html" "account_info.html" "Account/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/apps/account/" (22012 3829 0 0) "search.pyc" "search.py" "review.pyc" "review.py" "recommend.pyc" "recommend.py" "info_settings.pyc" "info_settings.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/settings/" (22011 53894 0 0) "UrlMap.js" "SearchSettings.js" "resumeInfo.js" "infoConfigSettings.js" "Chart.Color.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/resume_non_review_h_detail/" (22011 65347 0 0) "content.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionEditor/" (22012 3067 0 0) "PreviewModal.html" "Preview/" "PositionModal.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionEditor/Preview/Details/" (22006 41899 0 0) "Header.html" "Content.html" "Action.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionEditor/Preview/" (21998 51917 0 0) "Details/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionCreator/Preview/Details/" (22006 41899 0 0) "Header.html" "Content.html" "Action.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/PositionCreator/Preview/" (21998 51917 0 0) "Details/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/position_management/" (22007 41188 0 0) "SideMenu.html" "PositionList.html" "PositionInv/" "PositionEditor.html" "PositionEditor/" "PositionDetails.html" "PositionCreator.html" "PositionCreator/" "noCloseBlank.html" "ListItem.html" "List.html" "InvList.html" "Details.html" "Details/" "Blank.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talent_management/Positioninv/" (22012 2805 0 0) "PositioninvListDetails.html" "ListItem.html" "List.html" "Header.html" "Details/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/static/js/vendors/" (22012 1293 0 0) "webuploader.html5only.min.js" "webuploader.html5only.js" "validate.js" "require.js" "picturefill.js" "mock.js" "materialize.js" "juicer.js" "jquery.widget.js" "jquery.velocity.min.js" "jquery.validate.js" "jquery.ui.js" "jquery.tag-it.js" "jquery.tabs.js" "jquery.sideNav.js" "jquery.range.js" "jquery.pjax.js" "jquery.nanoscroller.js" "jquery.modal.js" "jquery.js" "jquery.iframe-transport.js" "jquery.form.js" "jquery.fileupload.js" "jquery.easing.js" "jquery.dropdown.js" "jquery.collapsible.js" "jquery.auto-complete.js" "jquery-widget.zip" "jquery-widget/" "jquery-ui-1.11.4.custom/" "jquery-ui/" "jquery-fileupload/" "homepage.js" "hammerjs.js" "dropzone.js" "domReady.js" "datepicker/" "d3.js" "Chart.Line.js" "Chart.Bar.js" "Chart/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/" (22011 57674 0 0) "template/" "search/" "resume_passed_review.html" "resume_passed_review/" "resume_non_review_h_detail.html" "resume_non_review_h_detail/" "resume_non_review.html" "resume_non_review/" "recommend.html" "recommend/" "announcement.html" "announced.html" "account_search.html" "#refuse.html#" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/template/refuse/" (22011 50561 0 0) "content.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/resume_non_review/" (22011 54008 0 0) "sidemenu.html" "ListItem.html" "fail_email_modal.html" "AllList.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/" (22011 53574 0 0) "urls.pyc" "urls.py" "templates/" "static/" "settings/" "index.html" "core/" "common/" "apps/" "app.pyc" "app.py" "__init__.py" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/template/" (22011 53423 0 0) "refuse.html" "refuse/" "passed.html" "passed/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/" (22008 17328 0 0) "webpack.dev-server.js" "webpack.config.js" "tests/" "test.txt" "setup.py" "scripts/" "resume.tex" "resume.md" "README.md" "parts/" "package.json" "node_modules/" "LICENCE" "jianxun.egg-info/" "jianxun/" "index.html" "gulpfile.js" "etc/" "develop-eggs/" "buildout.cfg" "bootstrap-buildout.py" "bin/" "api_readme.md" ".installed.cfg" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/templates/talents/" (22007 41188 0 0) "resume.html" "resume/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/partials/resume/" (22011 52123 0 0) "_skill.scss" "_sidebar.scss" "_header.scss" "_head-menu.scss" "_field.scss" "_evaluate.scss" "_basic.scss" "_active-time.scss" "_account.scss" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/apps/talentmanagement/" (22011 49584 0 0) "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/webpack/Resume/" (21998 62140 0 0) "Chart.Resume.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/components/" (22011 49839 0 0) "templates.js" "Resume/" "nprogress.js" "navbar.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/account/template/passed/" (22011 50727 0 0) "content.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/" (21998 62140 0 0) "README.md" "partials/" "pages/" "layout/" "helpers/" "email/" "components/" "base/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/source/partials/" (22007 41182 0 0) "resume/" "homepage/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/template_management/" (22011 48117 0 0) "refuse.html" "refuse/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/components/Resume/" (22011 49820 0 0) "MemoAndHistory.js" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-v2-b/jianxun/static/js/" (21998 62139 0 0) "webpack/" "vendors/" "utils/" "settings/" "dist/" "components/" "animation/" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/" (22008 6861 0 0) "Vagrantfile" "react-redux-universal-hot-example/" "react/" "nodejs/" "koajs/" "koa-react-full-example/" "jianxun-v2-b/" "jianxun-v2/" "jianxun-subman/" "jianxun-email/" "jianxun-admin/" "jianxun/" "javascript/" "hub-jianxun/" "haskell/" "events-jianxun/" "elixir/" "deploy-and-online/" ".vagrant/" ".DS_Store" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/bussiness_member_details/" (22006 15627 0 0) "SideMenu.html" "MemberList.html" "MemberItem.html" "HRItem.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/template_management/refuse/" (22011 48048 0 0) "content.html" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/apps/" (22011 48006 0 0) "template.pyc" "template.py" "resume.pyc" "resume.py" "job.pyc" "job.py" "homepage.pyc" "homepage.py" "company.pyc" "company.py" "bussiness_member.pyc" "bussiness_member.py" "account/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/gkjiale/workspace/code/jianxun-admin/jianxun/templates/bussiness_member/" (22011 46967 0 0) "sidemenu.html" "MemberListUnconfirm.html" "MemberList.html" "MemberItem.html" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
